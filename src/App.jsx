@@ -55,7 +55,7 @@ function App() {
       <section id="about" className="hero-section">
         <div className="hero-content">
           <div className="profile-container">
-            <img src="/pic.jpg" alt="Ullas G" className="profile-image" />
+            <img src="pic.jpg" alt="Ullas G" className="profile-image" />
             <div className="profile-glow"></div>
           </div>
           <div className="hero-text">
